@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-21",
+  "links": {
+    "web": "https://wyncall.com/es",
+    "instagram": "https://www.instagram.com/wyncall.ai/"
+  },
+  "metrics": [
+    { "label": "Clínicas contactadas", "value": 0 },
+    { "label": "Entrevistas", "value": 0 },
+    { "label": "Pilotos de pago", "value": 0, "goal": 5 },
+    { "label": "Clientes de pago", "value": 0, "goal": 15 }
+  ],
+  "done": [
+    {
+      "date": "2026-10-21",
+      "items": [
+        "Plan de 92 días cerrado: primero la app para clínicas, después vender.",
+        "El agente ya no pregunta por síntomas ni da consejos médicos: las dudas van a recepción.",
+        "Al empezar, el agente se presenta como asistente automático de la clínica y ofrece pasar con recepción.",
+        "Pedido el número de teléfono español para las llamadas: está en revisión.",
+        "Cuenta de Instagram abierta y primeros vídeos publicados.",
+        "Agentes por especialidad. El primero, Clínicas: dental, estética, capilar, fisio, medicina y óptica.",
+        "La web ya habla de clínicas y se prueba con un solo botón.",
+        "Todo desplegado en producción."
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "date": "2026-10-21",
+      "title": "Día 1: la app primero",
+      "text": "Antes de llamar a ninguna clínica, quiero que el producto hable su idioma. Hoy he dejado el agente listo para clínicas: confirma citas, reactiva pacientes y llama a los leads, sin hablar nunca de salud. Mañana, el agente de demo que te llama desde la web."
+    }
+  ]
+}

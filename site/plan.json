@@ -1,0 +1,964 @@
+{
+ "source": "PLAN_90_DIAS.md",
+ "weeks": [
+  {
+   "label": "Semana 1",
+   "title": "la app para clínicas",
+   "phase": "Fase 1 · Preparar",
+   "days": [
+    {
+     "dow": "Mié",
+     "date": "21 oct",
+     "iso": "2026-10-21",
+     "tag": "",
+     "tasks": [
+      "Crear la cuenta de Instagram y subir el vídeo del día 1: quién soy, qué es Wyncall y el reto de 92 días.",
+      "Pedir el número de teléfono español para las llamadas.",
+      "Guiones del agente para clínicas: sin preguntas de salud y con las dudas médicas a recepción."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "22 oct",
+     "iso": "2026-10-22",
+     "tag": "",
+     "tasks": [
+      "Prueba gratis por especialidad y agente de demo «Clínica Dental Sonrisa».",
+      "Vídeo del día."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "23 oct",
+     "iso": "2026-10-23",
+     "tag": "",
+     "tasks": [
+      "Empezar la página para clínicas: titular, casos de uso y botón de prueba.",
+      "Vídeo del día."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "24 oct",
+     "iso": "2026-10-24",
+     "tag": "DESARROLLO",
+     "tasks": [
+      "Terminar la página (calculadora de ausencias y preguntas frecuentes) y probar el agente con 3 clínicas reales.",
+      "Publicar los cambios y probar los agentes de clínica con llamadas reales a mi móvil.",
+      "Activar el número de teléfono español en el agente, si ya está aprobado.",
+      "Vídeo del día: enseño la página nueva."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "25 oct",
+     "iso": "2026-10-25",
+     "tag": "DESARROLLO",
+     "tasks": [
+      "Llamada al lead en menos de 60 s y resultados de clínica.",
+      "Desplegar y probar con un lead de prueba.",
+      "Vídeo del día: un formulario que llama en menos de 1 min, grabado en directo.",
+      "Revisión semanal breve."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 2",
+   "title": "lista, contacto y entrevistas",
+   "phase": "Fase 1 · Preparar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "26 oct",
+     "iso": "2026-10-26",
+     "tag": "",
+     "tasks": [
+      "Crear la hoja de seguimiento (Google Sheets o HubSpot gratis): clínica, decisor, teléfono, email, web, Instagram, si hace anuncios, estado, próximo paso.",
+      "Hacer la lista de 50 clínicas de mi ciudad (Google Maps, Doctoralia, Instagram). Marcar las que anuncian en Meta (Biblioteca de anuncios) o Google: tienen leads que llamar."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "27 oct",
+     "iso": "2026-10-27",
+     "tag": "",
+     "tasks": [
+      "Contactar 15 clínicas de la lista pidiendo 15 min «para un estudio sobre ausencias y leads». No vender."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "28 oct",
+     "iso": "2026-10-28",
+     "tag": "",
+     "tasks": [
+      "Contactar 15 clínicas más y hacer seguimiento de las de ayer.",
+      "Escribir el guion de entrevista de 15 min (problema, no venta): cómo confirman citas, % de ausencias, cuántos leads de Meta/Google reciben, quién los llama y cuánto tarda, qué software de agenda usan, cuánto cuesta su recepción."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "29 oct",
+     "iso": "2026-10-29",
+     "tag": "",
+     "tasks": [
+      "Primeras 2–3 entrevistas (mediodía o 19–20:30). Apuntar cifras exactas."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "30 oct",
+     "iso": "2026-10-30",
+     "tag": "",
+     "tasks": [
+      "2 entrevistas más y seguimientos."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "31 oct",
+     "iso": "2026-10-31",
+     "tag": "",
+     "tasks": [
+      "Reserva en calendario durante la llamada: Google Calendar con huecos reales; si la clínica no lo usa, crear una «solicitud de cita» que le llega por email."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "1 nov",
+     "iso": "2026-11-01",
+     "tag": "",
+     "tasks": [
+      "Repasar las entrevistas: dolor, precio que aceptarían, software de agenda más común. Ajustar el texto de la página de clínicas.",
+      "Revisión semanal."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 3",
+   "title": "más entrevistas y oferta de piloto",
+   "phase": "Fase 1 · Preparar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "2 nov",
+     "iso": "2026-11-02",
+     "tag": "",
+     "tasks": [
+      "Contactar 20 clínicas nuevas (otra zona o en remoto)."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "3 nov",
+     "iso": "2026-11-03",
+     "tag": "",
+     "tasks": [
+      "2 entrevistas.",
+      "Redactar la oferta de piloto: 30 días, objetivo pactado (p. ej. ≥ 80 % de las citas del día siguiente confirmadas antes de las 12 h, o leads llamados en menos de 5 min). Si se cumple, se descuenta del primer mes."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "4 nov",
+     "iso": "2026-11-04",
+     "tag": "",
+     "tasks": [
+      "2 entrevistas.",
+      "Preparar las condiciones del piloto y el contrato de protección de datos."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "5 nov",
+     "iso": "2026-11-05",
+     "tag": "",
+     "tasks": [
+      "2 entrevistas.",
+      "Preparar la demo de 15 min: el agente llama al prospecto en directo con el guion de su clínica."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "6 nov",
+     "iso": "2026-11-06",
+     "tag": "",
+     "tasks": [
+      "Enviar la oferta de piloto a las 3–5 clínicas con más dolor."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "7 nov",
+     "iso": "2026-11-07",
+     "tag": "",
+     "tasks": [
+      "Importar CSV de pacientes y campaña simple: franjas 10–14 h y 17–20 h, 2 reintentos, para confirmaciones y reactivación."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "8 nov",
+     "iso": "2026-11-08",
+     "tag": "",
+     "tasks": [
+      "Lista de exclusión propia y grabación con aviso al inicio de la llamada.",
+      "Revisión semanal: 10 entrevistas hechas, pilotos ofrecidos."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 4",
+   "title": "cerrar pilotos",
+   "phase": "Fase 1 · Preparar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "9 nov",
+     "iso": "2026-11-09",
+     "tag": "",
+     "tasks": [
+      "Llamar a las clínicas con oferta y resolver objeciones."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "10 nov",
+     "iso": "2026-11-10",
+     "tag": "",
+     "tasks": [
+      "2 demos en directo."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "11 nov",
+     "iso": "2026-11-11",
+     "tag": "",
+     "tasks": [
+      "Cerrar el texto de consentimiento para los formularios de las clínicas."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "12 nov",
+     "iso": "2026-11-12",
+     "tag": "",
+     "tasks": [
+      "2 demos y enviar contratos."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "13 nov",
+     "iso": "2026-11-13",
+     "tag": "",
+     "tasks": [
+      "Firmar y cobrar los pilotos."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "14 nov",
+     "iso": "2026-11-14",
+     "tag": "",
+     "tasks": [
+      "Panel de resultados del piloto: llamadas, contactados, confirmadas, reprogramadas, canceladas y tiempo de respuesta. Email diario a la clínica."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "15 nov",
+     "iso": "2026-11-15",
+     "tag": "",
+     "tasks": [
+      "Traspaso a humano: transferir la llamada a recepción o dejar un aviso urgente.",
+      "Revisión semanal."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 5",
+   "title": "Puerta 1",
+   "phase": "Fase 1 · Preparar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "16 nov",
+     "iso": "2026-11-16",
+     "tag": "",
+     "tasks": [
+      "Prospección: 15 clínicas nuevas."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "17 nov",
+     "iso": "2026-11-17",
+     "tag": "",
+     "tasks": [
+      "Demos y alta de los pilotos firmados: datos, agenda, número, textos."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "18 nov",
+     "iso": "2026-11-18",
+     "tag": "",
+     "tasks": [
+      "Demos y cierres."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "19 nov",
+     "iso": "2026-11-19",
+     "tag": "PUERTA 1",
+     "tasks": [
+      "¿5 pilotos firmados? Sí: fase 2. 3–4: una semana más de cierre. Menos de 3: cambiar mensaje o precio, o probar formación privada."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Fase 2",
+   "title": "arranque de los pilotos",
+   "phase": "Fase 2 · Pilotos",
+   "days": [
+    {
+     "dow": "Vie",
+     "date": "20 nov",
+     "iso": "2026-11-20",
+     "tag": "",
+     "tasks": [
+      "Arrancar el primer piloto en real y escuchar sus primeras 20 llamadas."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "21 nov",
+     "iso": "2026-11-21",
+     "tag": "",
+     "tasks": [
+      "Arreglar lo que salga en las primeras llamadas reales."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "22 nov",
+     "iso": "2026-11-22",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal y preparar el arranque del resto de pilotos."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 6",
+   "title": "pilotos en marcha",
+   "phase": "Fase 2 · Pilotos",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "23 nov",
+     "iso": "2026-11-23",
+     "tag": "",
+     "tasks": [
+      "Arrancar los pilotos 2 y 3. Escuchar llamadas y ajustar el guion de cada clínica."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "24 nov",
+     "iso": "2026-11-24",
+     "tag": "",
+     "tasks": [
+      "Arrancar los pilotos 4 y 5."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "25 nov",
+     "iso": "2026-11-25",
+     "tag": "",
+     "tasks": [
+      "Revisar las métricas de cada piloto y hacer una llamada de 10 min con cada clínica."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "26 nov",
+     "iso": "2026-11-26",
+     "tag": "",
+     "tasks": [
+      "Prospección de 10 clínicas y 1 demo (seguir llenando el embudo)."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "27 nov",
+     "iso": "2026-11-27",
+     "tag": "",
+     "tasks": [
+      "Ajustar los agentes con lo que digan las clínicas."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "28 nov",
+     "iso": "2026-11-28",
+     "tag": "",
+     "tasks": [
+      "La mejora de producto más pedida por los pilotos."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "29 nov",
+     "iso": "2026-11-29",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal y primer borrador de caso de éxito."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 7",
+   "title": "cifras y pilotos 6 a 10",
+   "phase": "Fase 2 · Pilotos",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "30 nov",
+     "iso": "2026-11-30",
+     "tag": "",
+     "tasks": [
+      "Enviar a cada clínica sus cifras de la semana."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "1 dic",
+     "iso": "2026-12-01",
+     "tag": "",
+     "tasks": [
+      "Prospección y demos."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "2 dic",
+     "iso": "2026-12-02",
+     "tag": "",
+     "tasks": [
+      "Filtrado Robinson y lista de exclusión en las campañas de reactivación."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "3 dic",
+     "iso": "2026-12-03",
+     "tag": "",
+     "tasks": [
+      "Prospección, demos y ofrecer piloto a 3 clínicas nuevas (pilotos 6 a 10)."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "4 dic",
+     "iso": "2026-12-04",
+     "tag": "",
+     "tasks": [
+      "Grabar 2 vídeos cortos de llamadas reales (con permiso y datos anonimizados) para LinkedIn e Instagram."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "5 dic",
+     "iso": "2026-12-05",
+     "tag": "",
+     "tasks": [
+      "Conectar con el software de agenda más usado según las entrevistas, o importación y exportación diaria por CSV si no tiene API."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "6 dic",
+     "iso": "2026-12-06",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 8",
+   "title": "caso de éxito y paso a cuota",
+   "phase": "Fase 2 · Pilotos",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "7 dic",
+     "iso": "2026-12-07",
+     "tag": "",
+     "tasks": [
+      "Publicar el primer post de LinkedIn con cifras de un piloto."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "8 dic",
+     "iso": "2026-12-08",
+     "tag": "",
+     "tasks": [
+      "Escribir el caso de éxito 1 con cifras."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "9 dic",
+     "iso": "2026-12-09",
+     "tag": "",
+     "tasks": [
+      "Llamada de mitad de piloto con cada clínica: qué valor ven. Proponer el paso a la cuota mensual al acabar."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "10 dic",
+     "iso": "2026-12-10",
+     "tag": "",
+     "tasks": [
+      "Prospección y demos."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "11 dic",
+     "iso": "2026-12-11",
+     "tag": "",
+     "tasks": [
+      "Cerrar nuevos pilotos."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "12 dic",
+     "iso": "2026-12-12",
+     "tag": "",
+     "tasks": [
+      "Página de casos de éxito para clínicas en la web."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "13 dic",
+     "iso": "2026-12-13",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal y lista de 20 agencias de marketing que trabajan con clínicas."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 9",
+   "title": "Puerta 2",
+   "phase": "Fase 2 · Pilotos",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "14 dic",
+     "iso": "2026-12-14",
+     "tag": "",
+     "tasks": [
+      "Reuniones de cierre con los pilotos que terminan: resultados frente al objetivo y propuesta de cuota."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "15 dic",
+     "iso": "2026-12-15",
+     "tag": "",
+     "tasks": [
+      "Cierres."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "16 dic",
+     "iso": "2026-12-16",
+     "tag": "",
+     "tasks": [
+      "Cierres y suscripciones en Stripe."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "17 dic",
+     "iso": "2026-12-17",
+     "tag": "",
+     "tasks": [
+      "Contactar 10 agencias de marketing para clínicas: programa de partners con 20–30 % recurrente."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "18 dic",
+     "iso": "2026-12-18",
+     "tag": "PUERTA 2",
+     "tasks": [
+      "¿3 o más pilotos pasan a cuota? Si no, entender por qué (resultados, precio, producto) y corregirlo antes de escalar."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Fase 3",
+   "title": "repaso de los pilotos",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Sáb",
+     "date": "19 dic",
+     "iso": "2026-12-19",
+     "tag": "",
+     "tasks": [
+      "Arreglar lo que frenó a los pilotos que no convirtieron."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "20 dic",
+     "iso": "2026-12-20",
+     "tag": "",
+     "tasks": [
+      "Revisión de la fase 2 y plan para Navidad (poca venta, más producto y contenido)."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 10",
+   "title": "agencias y páginas por especialidad",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "21 dic",
+     "iso": "2026-12-21",
+     "tag": "",
+     "tasks": [
+      "Variantes de la página de clínicas: dental, estética y fisio, cada una con su caso."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "22 dic",
+     "iso": "2026-12-22",
+     "tag": "",
+     "tasks": [
+      "Escribir el programa de agencias: condiciones, materiales y demo."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "23 dic",
+     "iso": "2026-12-23",
+     "tag": "",
+     "tasks": [
+      "3 llamadas con agencias interesadas."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "24 dic",
+     "iso": "2026-12-24",
+     "tag": "",
+     "tasks": [
+      "Revisar las métricas de los clientes activos."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "25 dic",
+     "iso": "2026-12-25",
+     "tag": "",
+     "tasks": [
+      "Descanso."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "26 dic",
+     "iso": "2026-12-26",
+     "tag": "",
+     "tasks": [
+      "Webhook de salida y Zapier/Make: resultados a HubSpot, Pipedrive o GoHighLevel (lo que usan las agencias)."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "27 dic",
+     "iso": "2026-12-27",
+     "tag": "",
+     "tasks": [
+      "Grabar los vídeos 3 y 4 de llamadas reales."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 11",
+   "title": "campaña «enero sin huecos vacíos»",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "28 dic",
+     "iso": "2026-12-28",
+     "tag": "",
+     "tasks": [
+      "Campaña «enero sin huecos vacíos»: email con el caso de éxito a las clínicas que no compraron."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "29 dic",
+     "iso": "2026-12-29",
+     "tag": "",
+     "tasks": [
+      "Prospección de 15 clínicas en otra ciudad."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "30 dic",
+     "iso": "2026-12-30",
+     "tag": "",
+     "tasks": [
+      "Demos."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "31 dic",
+     "iso": "2026-12-31",
+     "tag": "",
+     "tasks": [
+      "Repaso del año."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "1 ene",
+     "iso": "2027-01-01",
+     "tag": "",
+     "tasks": [
+      "Descanso."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "2 ene",
+     "iso": "2027-01-02",
+     "tag": "",
+     "tasks": [
+      "Alta de Starter para clínicas en autoservicio: compra, agente, número y primera campaña, con un clic de aprobación tuya."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "3 ene",
+     "iso": "2027-01-03",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 12",
+   "title": "cierres y alta en autoservicio",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "4 ene",
+     "iso": "2027-01-04",
+     "tag": "",
+     "tasks": [
+      "Prospección de 15 clínicas y seguimiento de agencias."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "5 ene",
+     "iso": "2027-01-05",
+     "tag": "",
+     "tasks": [
+      "Demos y cierres."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "6 ene",
+     "iso": "2027-01-06",
+     "tag": "",
+     "tasks": [
+      "Descanso (Reyes)."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "7 ene",
+     "iso": "2027-01-07",
+     "tag": "",
+     "tasks": [
+      "Cierres y alta de clientes nuevos."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "8 ene",
+     "iso": "2027-01-08",
+     "tag": "",
+     "tasks": [
+      "Post de LinkedIn con los resultados acumulados."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "9 ene",
+     "iso": "2027-01-09",
+     "tag": "",
+     "tasks": [
+      "Medición automática de minutos y aviso de consumo, para no facturar el exceso a mano."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "10 ene",
+     "iso": "2027-01-10",
+     "tag": "",
+     "tasks": [
+      "Revisión semanal."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 13",
+   "title": "retención y primer partner",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "11 ene",
+     "iso": "2027-01-11",
+     "tag": "",
+     "tasks": [
+      "Prospección de 15 clínicas."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "12 ene",
+     "iso": "2027-01-12",
+     "tag": "",
+     "tasks": [
+      "Demos."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "13 ene",
+     "iso": "2027-01-13",
+     "tag": "",
+     "tasks": [
+      "Cierres."
+     ]
+    },
+    {
+     "dow": "Jue",
+     "date": "14 ene",
+     "iso": "2027-01-14",
+     "tag": "",
+     "tasks": [
+      "Revisión con cada cliente activo: quién puede darse de baja y por qué."
+     ]
+    },
+    {
+     "dow": "Vie",
+     "date": "15 ene",
+     "iso": "2027-01-15",
+     "tag": "",
+     "tasks": [
+      "Seguimiento de agencias: primer cliente a través de un partner."
+     ]
+    },
+    {
+     "dow": "Sáb",
+     "date": "16 ene",
+     "iso": "2027-01-16",
+     "tag": "",
+     "tasks": [
+      "La mejora de producto más pedida del mes."
+     ]
+    },
+    {
+     "dow": "Dom",
+     "date": "17 ene",
+     "iso": "2027-01-17",
+     "tag": "",
+     "tasks": [
+      "Preparar el balance de los 90 días."
+     ]
+    }
+   ]
+  },
+  {
+   "label": "Semana 14",
+   "title": "cierre",
+   "phase": "Fase 3 · Escalar",
+   "days": [
+    {
+     "dow": "Lun",
+     "date": "18 ene",
+     "iso": "2027-01-18",
+     "tag": "",
+     "tasks": [
+      "Últimos cierres del trimestre."
+     ]
+    },
+    {
+     "dow": "Mar",
+     "date": "19 ene",
+     "iso": "2027-01-19",
+     "tag": "",
+     "tasks": [
+      "Calcular las métricas: clientes, conversión de piloto a cuota y bajas."
+     ]
+    },
+    {
+     "dow": "Mié",
+     "date": "20 ene",
+     "iso": "2027-01-20",
+     "tag": "BALANCE FINAL",
+     "tasks": [
+      "Comparar con el objetivo (15 clientes). Decidir: insistir en clínicas, abrir formación privada o replantear. Planificar el siguiente trimestre.",
+      "Vídeo final de la serie: Día 92/92 con el balance."
+     ]
+    }
+   ]
+  }
+ ]
+}
