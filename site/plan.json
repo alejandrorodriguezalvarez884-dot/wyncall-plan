@@ -25,6 +25,8 @@
      "tasks": [
       "Prueba gratis que se abre con la especialidad de la clínica ya elegida.",
       "Vídeo corto de demo: una llamada de una clínica inventada, «Clínica Dental Sonrisa».",
+      "Pensar cómo sería el despliegue de los agentes para un cliente real: qué necesita la clínica, qué hacemos nosotros y en qué orden, desde que dice que sí hasta la primera llamada a sus pacientes.",
+      "Empezar en Instagram la serie «La IA por dentro» y publicar el capítulo 1/8: ¿qué es un LLM?",
       "Vídeo del día."
      ]
     },
@@ -76,7 +78,8 @@
      "tag": "",
      "tasks": [
       "Crear la hoja de seguimiento (Google Sheets o HubSpot gratis): clínica, decisor, teléfono, email, web, Instagram, si hace anuncios, estado, próximo paso.",
-      "Hacer la lista de 50 clínicas de mi ciudad (Google Maps, Doctoralia, Instagram). Marcar las que anuncian en Meta (Biblioteca de anuncios) o Google: tienen leads que llamar."
+      "Hacer la lista de 50 clínicas de mi ciudad (Google Maps, Doctoralia, Instagram). Marcar las que anuncian en Meta (Biblioteca de anuncios) o Google: tienen leads que llamar.",
+      "Instagram, «La IA por dentro» 2/8: cómo aprende (y por qué a veces se inventa cosas)."
      ]
     },
     {
@@ -104,7 +107,8 @@
      "iso": "2026-10-29",
      "tag": "",
      "tasks": [
-      "Primeras 2–3 entrevistas (mediodía o 19–20:30). Apuntar cifras exactas."
+      "Primeras 2–3 entrevistas (mediodía o 19–20:30). Apuntar cifras exactas.",
+      "Instagram, «La IA por dentro» 3/8: el oído, de tu voz a texto."
      ]
     },
     {
@@ -148,7 +152,8 @@
      "iso": "2026-11-02",
      "tag": "",
      "tasks": [
-      "Contactar 20 clínicas nuevas (otra zona o en remoto)."
+      "Contactar 20 clínicas nuevas (otra zona o en remoto).",
+      "Instagram, «La IA por dentro» 4/8: la voz, que no suene a robot."
      ]
     },
     {
@@ -158,7 +163,7 @@
      "tag": "",
      "tasks": [
       "2 entrevistas.",
-      "Redactar la oferta de piloto: 30 días, objetivo pactado (p. ej. ≥ 80 % de las citas del día siguiente confirmadas antes de las 12 h, o leads llamados en menos de 5 min). Si se cumple, se descuenta del primer mes."
+      "Redactar la oferta de piloto: 30 días, objetivo pactado (p. ej. ≥ 80 % de las citas del día siguiente confirmadas antes de las 12 h, o leads llamados en menos de 5 min). Si se cumple, se descuenta del primer mes. Incluye confirmar citas y leads (la reactivación, al pasar a cuota) y un uso razonable de 1.000 min."
      ]
     },
     {
@@ -178,7 +183,8 @@
      "tag": "",
      "tasks": [
       "2 entrevistas.",
-      "Preparar la demo de 15 min: el agente llama al prospecto en directo con el guion de su clínica."
+      "Preparar la demo de 15 min: el agente llama al prospecto en directo con el guion de su clínica.",
+      "Instagram, «La IA por dentro» 5/8: el guion, quién es y qué no puede decir."
      ]
     },
     {
@@ -196,7 +202,7 @@
      "iso": "2026-11-07",
      "tag": "",
      "tasks": [
-      "Importar CSV de pacientes y campaña simple: franjas 10–14 h y 17–20 h, 2 reintentos, para confirmaciones y reactivación."
+      "Importar CSV de pacientes y campaña simple para confirmaciones: la cita de cada paciente (fecha, hora, profesional) en su llamada, 48 h antes de la cita, franjas 10–14 h y 17–20 h, 2 reintentos y un último intento antes de las 12 h del día anterior; si salta el contestador, colgar sin mensaje."
      ]
     },
     {
@@ -205,7 +211,8 @@
      "iso": "2026-11-08",
      "tag": "",
      "tasks": [
-      "Lista de exclusión propia y grabación con aviso al inicio de la llamada.",
+      "Lista de exclusión propia (también para las confirmaciones) y grabación con aviso al inicio de la llamada, sólo las 2 primeras semanas de cada piloto y borrada a los 30 días.",
+      "Número por agente: un 91 por clínica, que desvía las devoluciones a su recepción.",
       "Revisión semanal: 10 entrevistas hechas, pilotos ofrecidos."
      ]
     }
@@ -222,7 +229,9 @@
      "iso": "2026-11-09",
      "tag": "",
      "tasks": [
-      "Llamar a las clínicas con oferta y resolver objeciones."
+      "Llamar a las clínicas con oferta y resolver objeciones.",
+      "Darme de alta como autónomo para poder firmar y facturar los pilotos.",
+      "Instagram, «La IA por dentro» 6/8: las manos, cómo reserva una cita de verdad."
      ]
     },
     {
@@ -249,7 +258,8 @@
      "iso": "2026-11-12",
      "tag": "",
      "tasks": [
-      "2 demos y enviar contratos."
+      "2 demos y enviar contratos.",
+      "Instagram, «La IA por dentro» 7/8: los reflejos, contestar en menos de un segundo."
      ]
     },
     {
@@ -267,7 +277,8 @@
      "iso": "2026-11-14",
      "tag": "",
      "tasks": [
-      "Panel de resultados del piloto: llamadas, contactados, confirmadas, reprogramadas, canceladas y tiempo de respuesta. Email diario a la clínica."
+      "Panel de resultados del piloto: llamadas, contactados, confirmadas, reprogramadas, canceladas y tiempo de respuesta. Email a recepción por cada paciente que quiere mover la cita o hablar con ella, y resumen a las 14 h y a las 20 h.",
+      "Que al pagar el piloto se abra la cuenta de la clínica."
      ]
     },
     {
@@ -276,7 +287,7 @@
      "iso": "2026-11-15",
      "tag": "",
      "tasks": [
-      "Traspaso a humano: transferir la llamada a recepción o dejar un aviso urgente.",
+      "Traspaso a humano: transferir la llamada en directo a recepción (el aviso por email ya sale el sáb 14).",
       "Revisión semanal."
      ]
     }
@@ -293,7 +304,8 @@
      "iso": "2026-11-16",
      "tag": "",
      "tasks": [
-      "Prospección: 15 clínicas nuevas."
+      "Prospección: 15 clínicas nuevas.",
+      "Instagram, «La IA por dentro» 8/8: del ordenador al teléfono, cómo se pone en marcha."
      ]
     },
     {
@@ -302,7 +314,7 @@
      "iso": "2026-11-17",
      "tag": "",
      "tasks": [
-      "Demos y alta de los pilotos firmados: datos, agenda, número, textos."
+      "Demos y alta de los pilotos firmados con la lista de pasos de cada clínica: reunión de arranque, un 91 por clínica, agentes y 7 llamadas de prueba con recepción."
      ]
     },
     {
