@@ -23,7 +23,8 @@
      "iso": "2026-10-22",
      "tag": "",
      "tasks": [
-      "Prueba gratis por especialidad y agente de demo «Clínica Dental Sonrisa».",
+      "Prueba gratis que se abre con la especialidad de la clínica ya elegida.",
+      "Vídeo corto de demo: una llamada de una clínica inventada, «Clínica Dental Sonrisa».",
       "Vídeo del día."
      ]
     },
@@ -597,7 +598,7 @@
      "iso": "2026-12-16",
      "tag": "",
      "tasks": [
-      "Cierres y suscripciones en Stripe."
+      "Cierres y cobro de las suscripciones."
      ]
     },
     {
