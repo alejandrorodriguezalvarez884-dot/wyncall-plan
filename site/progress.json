@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
@@ -35,6 +35,13 @@
         "La prueba gratis ya no hace esperar al arrancar.",
         "Cada plan incluye también un agente para WhatsApp, Telegram y Gmail."
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "items": [
+        "Primera versión de la página para clínicas: titular, las tres llamadas que hace la IA, el vídeo de demo y un botón «Pruébalo: te llamamos ahora» con tu tipo de clínica. Aún sin publicar.",
+        "Instagram, «La IA por dentro» 2/8: cómo aprende una IA, y por qué a veces se inventa cosas."
+      ]
     }
   ],
   "notes": [
@@ -47,6 +54,11 @@
       "date": "2026-10-22",
       "title": "Día 2: ya tenemos número de Madrid",
       "text": "Ya tenemos número de Madrid: las llamadas salen de un 91 y no de un número de Estados Unidos. La web ya enseña cómo suena el agente, con un vídeo de demo de una clínica inventada, y la prueba gratis ya no hace esperar. He dejado escrito cómo arrancar con una clínica, del «sí» a la primera llamada en 5 días, y he empezado la serie «La IA por dentro». Mañana, la página para clínicas."
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Día 3: una página nueva, solo para clínicas",
+      "text": "Hoy hemos estrenado una página nueva, aparte de la web de siempre y dedicada solo a las clínicas: la queremos para las demos y para vender. Seguimos con «La IA por dentro», ya en su capítulo 2. Mañana, aunque sea sábado: un piloto con una clínica de verdad, anonimizada, y el agente dentro de la página nueva para hablar con él sin dejar ningún dato."
     }
   ]
 }

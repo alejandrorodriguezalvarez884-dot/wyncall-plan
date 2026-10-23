@@ -47,8 +47,8 @@
      "iso": "2026-10-24",
      "tag": "DESARROLLO",
      "tasks": [
-      "Terminar la página (calculadora de ausencias y preguntas frecuentes) y probar el agente con 3 clínicas reales.",
-      "Publicar los cambios y probar los agentes de clínica con llamadas reales a mi móvil.",
+      "Piloto con una clínica de verdad, anonimizada: sin su nombre ni datos de sus pacientes.",
+      "Publicar la página para clínicas con el agente ya hecho dentro, para que cualquiera hable con él directamente, sin dejar ningún dato.",
       "Activar el número de teléfono español en el agente, si ya está aprobado.",
       "Instagram, «La IA por dentro» 3/8: el oído, de tu voz a texto.",
       "Vídeo del día: enseño la página nueva."
