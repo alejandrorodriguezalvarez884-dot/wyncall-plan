@@ -44,6 +44,22 @@
       ]
     },
     {
+      "date": "2026-10-24",
+      "items": [
+        "Página para clínicas publicada, con Sofía dentro: hablas con ella desde el navegador, sin registrarte ni dejar datos.",
+        "Prueba con una clínica real de Madrid, sin su nombre: tres llamadas de prueba y un fallo arreglado (con dos centros, ahora pregunta a cuál vas al reservar).",
+        "Instagram, «La IA por dentro» 3/8: el oído, de tu voz a texto.",
+        "Un solo vídeo para los días 4, 5 y 6."
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "items": [
+        "Llamada al lead en menos de un minuto: en la prueba, a los 18 segundos la asistente ya estaba hablando. Solo si marcó la casilla para que le llamen.",
+        "Instagram, «La IA por dentro» 4/8: la voz, que no suene a robot."
+      ]
+    },
+    {
       "date": "2026-10-26",
       "items": [
         "Hoja de seguimiento: estado, próximo paso y fecha de cada clínica, y unas métricas que se calculan solas.",
@@ -67,6 +83,16 @@
       "date": "2026-10-23",
       "title": "Día 3: una página nueva, solo para clínicas",
       "text": "Hoy hemos estrenado una página nueva, aparte de la web de siempre y dedicada solo a las clínicas: la queremos para las demos y para vender. Seguimos con «La IA por dentro», ya en su capítulo 2. Mañana, aunque sea sábado: un piloto con una clínica de verdad, anonimizada, y el agente dentro de la página nueva para hablar con él sin dejar ningún dato."
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Día 4: habla con la asistente de una clínica, sin dejar datos",
+      "text": "El fin de semana se quedó sin hacer y lo hemos recuperado el lunes. En la página para clínicas ya puedes hablar con Sofía, la asistente de una clínica de ejemplo: entras, le das a llamar y hablas con ella, sin registrarte ni dejar tu teléfono. Y la hemos probado con una clínica real de Madrid, sin decir cuál: tres llamadas de prueba (confirmar y mover una cita, recuperar a un paciente y un lead) y un fallo encontrado y arreglado. En «La IA por dentro», el capítulo 3: el oído."
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Día 5: un lead, llamado en menos de un minuto",
+      "text": "Cuando alguien deja su teléfono en el formulario de una clínica, el agente le llama en menos de un minuto (18 s en la prueba), solo si marcó la casilla para que le llamen. Si llega de noche, espera a que abra la clínica. En «La IA por dentro», el capítulo 4: la voz."
     },
     {
       "date": "2026-10-26",
