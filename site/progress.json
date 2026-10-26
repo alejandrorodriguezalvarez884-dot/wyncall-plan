@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-26",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
@@ -42,6 +42,13 @@
         "Primera versión de la página para clínicas: titular, las tres llamadas que hace la IA, el vídeo de demo y un botón «Pruébalo: te llamamos ahora» con tu tipo de clínica. Aún sin publicar.",
         "Instagram, «La IA por dentro» 2/8: cómo aprende una IA, y por qué a veces se inventa cosas."
       ]
+    },
+    {
+      "date": "2026-10-26",
+      "items": [
+        "Hoja de seguimiento: estado, próximo paso y fecha de cada clínica, y unas métricas que se calculan solas.",
+        "Lista de 50 clínicas de Madrid, con las 23 que hacen anuncios en Meta o Google marcadas."
+      ]
     }
   ],
   "notes": [
@@ -59,6 +66,11 @@
       "date": "2026-10-23",
       "title": "Día 3: una página nueva, solo para clínicas",
       "text": "Hoy hemos estrenado una página nueva, aparte de la web de siempre y dedicada solo a las clínicas: la queremos para las demos y para vender. Seguimos con «La IA por dentro», ya en su capítulo 2. Mañana, aunque sea sábado: un piloto con una clínica de verdad, anonimizada, y el agente dentro de la página nueva para hablar con él sin dejar ningún dato."
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Día 6: hoy empieza la parte de vender",
+      "text": "Hoy cambiamos de marcha: de construir a vender. Hemos hecho la lista de 50 clínicas de Madrid (20 dentales, 20 de estética y 10 de fisio) y hemos mirado cuáles hacen anuncios en Meta o en Google: 23 de 50, así que reciben leads que alguien tiene que llamar rápido. Todo va a una hoja de seguimiento. Mañana, las primeras 15, y sin vender: solo preguntar."
     }
   ]
 }
