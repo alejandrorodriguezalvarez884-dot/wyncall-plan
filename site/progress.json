@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
   },
   "metrics": [
-    { "label": "Clínicas contactadas", "value": 0 },
+    { "label": "Clínicas contactadas", "value": 15 },
     { "label": "Entrevistas", "value": 0 },
     { "label": "Pilotos de pago", "value": 0, "goal": 5 },
     { "label": "Clientes de pago", "value": 0, "goal": 15 }
@@ -66,6 +66,14 @@
         "Lista de 50 clínicas de Madrid, con las 23 que hacen anuncios en Meta o Google marcadas.",
         "Instagram, «La IA por dentro» 5/8: el guion, quién es la IA y qué no puede decir."
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "items": [
+        "15 clínicas contactadas por mensaje directo de Instagram: una primera versión pensada para clínicas, para afinarla juntos, sin vender.",
+        "Instagram, «La IA por dentro» 6/8: las manos, qué hace la IA además de hablar.",
+        "Vídeo nuevo para clínicas, «La agenda con agujeros»: las horas que se quedan vacías por las ausencias y el lead que se enfría."
+      ]
     }
   ],
   "notes": [
@@ -98,6 +106,11 @@
       "date": "2026-10-26",
       "title": "Día 6: hoy empieza la parte de vender",
       "text": "Hoy cambiamos de marcha: de construir a vender. Hemos hecho la lista de 50 clínicas de Madrid (20 dentales, 20 de estética y 10 de fisio) y hemos mirado cuáles hacen anuncios en Meta o en Google: 23 de 50, así que reciben leads que alguien tiene que llamar rápido. Todo va a una hoja de seguimiento. Mañana, las primeras 15, y sin vender: solo preguntar."
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Día 7: las primeras 15 clínicas",
+      "text": "Hoy hemos escrito a las primeras 15 clínicas, una a una, por mensaje directo de Instagram. Hemos cambiado el enfoque: en vez de pedir una entrevista para un estudio, les contamos que Wyncall es una primera versión pensada para clínicas y les proponemos afinarla juntos, sin vender y sin compromiso. De momento no ha contestado nadie. Mañana, 15 más por email, y el jueves, el seguimiento."
     }
   ]
 }
