@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
   },
   "metrics": [
-    { "label": "Clínicas contactadas", "value": 15 },
+    { "label": "Clínicas contactadas", "value": 30 },
     { "label": "Entrevistas", "value": 0 },
     { "label": "Pilotos de pago", "value": 0, "goal": 5 },
     { "label": "Clientes de pago", "value": 0, "goal": 15 }
@@ -75,6 +75,14 @@
         "Vídeo nuevo para clínicas, «La agenda con agujeros»: las horas que se quedan vacías por las ausencias y el lead que se enfría.",
         "Vídeo del día 7: las primeras 15 clínicas, nuestro enfoque y lo que viene."
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "items": [
+        "Dejar listo el correo de wyncall.com para escribir a las clínicas.",
+        "Escribir por email a 15 clínicas más, con el mismo enfoque que los mensajes de ayer.",
+        "Instagram, «La IA por dentro» 7/8."
+      ]
     }
   ],
   "notes": [
@@ -112,6 +120,11 @@
       "date": "2026-10-27",
       "title": "Día 7: las primeras 15 clínicas",
       "text": "Hoy hemos escrito a las primeras 15 clínicas, una a una, por mensaje directo de Instagram. Hemos cambiado el enfoque: en vez de pedir una entrevista para un estudio, les contamos que Wyncall es una primera versión pensada para clínicas y les proponemos afinarla juntos, sin vender y sin compromiso. De momento no ha contestado nadie. Mañana, 15 más por email, y el jueves, el seguimiento."
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Día 8: correo listo y 15 clínicas más",
+      "text": "Ya tenemos correo en nuestro dominio, wyncall.com, y con él hemos escrito a 15 clínicas más, con el mismo enfoque que ayer. De momento no ha contestado ninguna de las 30, pero esto acaba de empezar y seguimos. Mañana, el seguimiento y, si alguna acepta, las primeras llamadas."
     }
   ]
 }
