@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-11-02",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
   },
   "metrics": [
-    { "label": "Clínicas contactadas", "value": 30 },
+    { "label": "Clínicas contactadas", "value": 52 },
     { "label": "Entrevistas", "value": 0 },
     { "label": "Pilotos de pago", "value": 0, "goal": 5 },
     { "label": "Clientes de pago", "value": 0, "goal": 15 }
@@ -83,6 +83,25 @@
         "Escribir por email a 15 clínicas más, con el mismo enfoque que los mensajes de ayer.",
         "Instagram, «La IA por dentro» 7/8."
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "items": [
+        "Instagram, «La IA por dentro» 8/8: del ordenador al teléfono. La serie, completa.",
+        "Las 2 clínicas cuyo correo rebotó, contactadas por otro camino.",
+        "Primer carrusel para clínicas, «La agenda con agujeros».",
+        "Vídeo del día 9: la serie completa, el primer carrusel y 32 clínicas contactadas."
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "items": [
+        "Recordatorio a las clínicas que no habían contestado: por Instagram el viernes y por correo el lunes.",
+        "20 clínicas nuevas en el noroeste de Madrid: 52 contactadas.",
+        "Reserva de la cita en el Google Calendar de la clínica durante la llamada, ya en marcha.",
+        "Carrusel «Todo lo que Wyncall hace (y hará) por tu clínica».",
+        "Vídeo de los días 10–13: le estamos dando vueltas al plan."
+      ]
     }
   ],
   "notes": [
@@ -125,6 +144,16 @@
       "date": "2026-10-28",
       "title": "Día 8: correo listo y 15 clínicas más",
       "text": "Ya tenemos correo en nuestro dominio, wyncall.com, y con él hemos escrito a 15 clínicas más, con el mismo enfoque que ayer. De momento no ha contestado ninguna de las 30, pero esto acaba de empezar y seguimos. Mañana, el seguimiento y, si alguna acepta, las primeras llamadas."
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Día 9: serie completa y primer carrusel",
+      "text": "Las 2 clínicas cuyo correo rebotó ayer ya están contactadas por otro camino: 32 en total. De momento no ha contestado ninguna, así que todavía no hay entrevistas. Hoy se completa «La IA por dentro» con el capítulo 8, del ordenador al teléfono, y estrenamos el primer carrusel para clínicas: desde hoy, algo útil para clínicas cada día laborable. Lo siguiente: el seguimiento, un solo recordatorio a las que no han contestado."
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Días 10–13: le estamos dando vueltas al plan",
+      "text": "El viernes mandamos un recordatorio a las clínicas que no habían contestado, y hoy otro por correo; solo han llegado respuestas automáticas. Hoy, 20 clínicas nuevas en el noroeste de Madrid: ya van 52 contactadas. Con estos números, estamos dándole vueltas al plan: si no contestan, cambiamos la forma de llegar a ellas, y en unos días contamos cómo ha ido. Mientras, el agente ya puede reservar la cita en el Google Calendar de la clínica durante la llamada; falta estrenarlo con la primera clínica. Del viernes al domingo no hubo vídeo del día."
     }
   ]
 }
