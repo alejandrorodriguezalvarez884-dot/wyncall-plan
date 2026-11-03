@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
@@ -102,6 +102,14 @@
         "Carrusel «Todo lo que Wyncall hace (y hará) por tu clínica».",
         "Vídeo de los días 10–13: le estamos dando vueltas al plan."
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "items": [
+        "La demo de la web apunta por qué camino llega cada visita.",
+        "Instagram: el reel «Pon a prueba a Sofía #01».",
+        "Vídeo del día 14: cambio de rumbo, probamos canales."
+      ]
     }
   ],
   "notes": [
@@ -154,6 +162,11 @@
       "date": "2026-11-02",
       "title": "Días 10–13: le estamos dando vueltas al plan",
       "text": "El viernes mandamos un recordatorio a las clínicas que no habían contestado, y hoy otro por correo; solo han llegado respuestas automáticas. Hoy, 20 clínicas nuevas en el noroeste de Madrid: ya van 52 contactadas. Con estos números, estamos dándole vueltas al plan: si no contestan, cambiamos la forma de llegar a ellas, y en unos días contamos cómo ha ido. Mientras, el agente ya puede reservar la cita en el Google Calendar de la clínica durante la llamada; falta estrenarlo con la primera clínica. Del viernes al domingo no hubo vídeo del día."
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Día 14: cambio de rumbo, probamos canales",
+      "text": "Con 52 clínicas contactadas y ninguna respuesta de una persona, esta semana, además de escribirles, probamos a darnos a conocer por otros caminos: primero Instagram, y después los buscadores y los grupos donde están los dueños de clínicas. Todos llevan a la demo de wyncall.com/es/clinicas, que desde hoy apunta por qué camino llegó cada visita. Hoy salió el primer «Pon a prueba a Sofía», y una clínica ha empezado a seguirnos. Preparamos la primera propuesta para clínicas, con lo que Sofía ya hace hoy: llamar a quien pide información en menos de un minuto."
     }
   ]
 }
