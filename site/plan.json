@@ -23,7 +23,7 @@
      "iso": "2026-10-22",
      "tag": "",
      "tasks": [
-      "Prueba gratis que se abre con la especialidad de la clínica ya elegida.",
+      "Prueba que se abre con la especialidad de la clínica ya elegida.",
       "Vídeo corto de demo: una llamada de una clínica inventada, «Clínica Dental Sonrisa».",
       "Pensar cómo sería el despliegue de los agentes para un cliente real: qué necesita la clínica, qué hacemos nosotros y en qué orden, desde que dice que sí hasta la primera llamada a sus pacientes.",
       "Empezar en Instagram la serie «La IA por dentro» y publicar el capítulo 1/8: ¿qué es un LLM?",
@@ -80,8 +80,8 @@
      "iso": "2026-10-26",
      "tag": "",
      "tasks": [
-      "Crear la hoja de seguimiento (Google Sheets o HubSpot gratis): clínica, decisor, teléfono, email, web, Instagram, si hace anuncios, estado, próximo paso.",
-      "Hacer la lista de 50 clínicas de mi ciudad (Google Maps, Doctoralia, Instagram). Marcar las que anuncian en Meta (Biblioteca de anuncios) o Google: tienen leads que llamar.",
+      "Crear la hoja de seguimiento: clínica, quién decide, contacto, web, Instagram, estado y próximo paso.",
+      "Hacer la lista de 50 clínicas de mi ciudad (Google Maps, Doctoralia, Instagram).",
       "Instagram, «La IA por dentro» 5/8: el guion, quién es y qué no puede decir."
      ]
     },
@@ -102,9 +102,9 @@
      "tag": "",
      "tasks": [
       "Dejar listo el correo de wyncall.com para escribir a las clínicas.",
-      "Escribir por email a 15 clínicas más, con el mismo enfoque que los mensajes de ayer: primero las que anuncian y tienen email.",
+      "Escribir por email a 15 clínicas más, con el mismo enfoque que los mensajes de ayer: primero las que tienen email.",
       "Contestar los mensajes que lleguen y apuntar cada respuesta en la hoja.",
-      "Escribir el guion de la llamada de 15 min (entender cómo trabajan, no vender): cómo confirman citas, % de ausencias, cuántos leads de Meta/Google reciben, quién los llama y cuánto tarda, qué software de agenda usan, cuánto cuesta su recepción.",
+      "Escribir el guion de la llamada de 15 min (entender cómo trabajan, no vender): cómo confirman citas, % de ausencias, cuántos leads de Meta/Google reciben, quién los llama y cuánto tarda, y qué software de agenda usan.",
       "Instagram, «La IA por dentro» 7/8: los reflejos, contestar en menos de un segundo. Publicado: https://www.instagram.com/reel/DfB7fXQirdi/"
      ]
     },
@@ -114,7 +114,7 @@
      "iso": "2026-10-29",
      "tag": "",
      "tasks": [
-      "Seguimiento, una sola vez, de los mensajes de Instagram del martes que no tengan respuesta.",
+      "Seguimiento, una sola vez, de los mensajes de Instagram del martes que no tengan respuesta. Hecho el vie 30.",
       "Primeras 2–3 entrevistas (mediodía o 19–20:30). Apuntar cifras exactas.",
       "Instagram, «La IA por dentro» 8/8: del ordenador al teléfono, cómo se pone en marcha. Publicado: https://www.instagram.com/reel/DfE2e_SibyG/"
      ]
@@ -143,7 +143,7 @@
      "iso": "2026-11-01",
      "tag": "",
      "tasks": [
-      "Repasar las entrevistas: dolor, precio que aceptarían, software de agenda más común. Ajustar el texto de la página de clínicas.",
+      "Repasar las entrevistas: dolor, software de agenda más común. Ajustar el texto de la página de clínicas.",
       "Revisión semanal."
      ]
     }
@@ -151,7 +151,7 @@
   },
   {
    "label": "Semana 3",
-   "title": "más entrevistas y oferta de piloto",
+   "title": "probar caminos para darnos a conocer",
    "phase": "Fase 1 · Preparar",
    "days": [
     {
@@ -160,7 +160,9 @@
      "iso": "2026-11-02",
      "tag": "",
      "tasks": [
-      "Contactar 20 clínicas nuevas (otra zona o en remoto)."
+      "Contactar 20 clínicas nuevas (otra zona o en remoto).",
+      "Seguimiento, una sola vez, de los 15 emails sin respuesta y de un mensaje de Instagram.",
+      "Reserva en calendario durante la llamada (del sáb 31 oct)."
      ]
     },
     {
@@ -169,8 +171,9 @@
      "iso": "2026-11-03",
      "tag": "",
      "tasks": [
-      "2 entrevistas.",
-      "Redactar la oferta de piloto: 30 días, objetivo pactado (p. ej. ≥ 80 % de las citas del día siguiente confirmadas antes de las 12 h, o leads llamados en menos de 5 min). Si se cumple, se descuenta del primer mes. Incluye confirmar citas y leads (la reactivación, al pasar a cuota) y un uso razonable de 1.000 min."
+      "Saber por qué camino llega cada clínica: la demo de la web apunta de dónde viene cada visita, y una hoja para comparar los caminos.",
+      "Instagram: el reel «Pon a prueba a Sofía» (la pieza de los martes).",
+      "Redactar la oferta de piloto: 30 días con un objetivo pactado (p. ej. leads llamados en menos de 5 min, o ≥ 80 % de las citas del día siguiente confirmadas antes de las 12 h). Lo operamos nosotros. Incluye llamar a los leads (el caso principal) y, cuando estén el CSV y la lista de exclusión, confirmar citas, con un uso razonable de 1.000 min. Al final se repasan los resultados con la clínica."
      ]
     },
     {
@@ -179,7 +182,8 @@
      "iso": "2026-11-04",
      "tag": "",
      "tasks": [
-      "2 entrevistas.",
+      "Instagram: que la pieza que mejor haya funcionado llegue a más clínicas, con el enlace a la demo de wyncall.com/es/clinicas.",
+      "Seguimiento, una sola vez, de las 20 clínicas del lun 2 y de una clínica más a la que escribí el 30 oct.",
       "Preparar las condiciones del piloto y el contrato de protección de datos."
      ]
     },
@@ -189,8 +193,10 @@
      "iso": "2026-11-05",
      "tag": "",
      "tasks": [
-      "2 entrevistas.",
-      "Preparar la demo de 15 min: el agente llama al prospecto en directo con el guion de su clínica."
+      "Buscadores: que quien ya busca una solución («recordatorio de citas clínica», «pacientes que no vienen a la cita»…) llegue a la demo de wyncall.com/es/clinicas.",
+      "Preparar una prueba con 5 clínicas de la lista.",
+      "Grupos: lista de 5–8 grupos y comunidades donde están los gerentes y dueños de clínicas (grupos de Facebook de clínicas dentales y de estética, grupos de LinkedIn, foros del sector), con sus normas sobre enlaces y promoción. Pedir entrar desde mi cuenta.",
+      "Preparar la demo de 15 min: un formulario que llama al prospecto en menos de 1 min, con el guion de su clínica. Sirve para clínicas y agencias."
      ]
     },
     {
@@ -199,7 +205,8 @@
      "iso": "2026-11-06",
      "tag": "",
      "tasks": [
-      "Enviar la oferta de piloto a las 3–5 clínicas con más dolor."
+      "Grupos: una primera aportación útil en los que me hayan aceptado (por ejemplo, cuánto se pierde con un hueco vacío en la agenda y qué hacer con un lead en los primeros 5 minutos), sin vender. El enlace a la demo, solo donde las normas lo permitan.",
+      "Mirar cómo va Instagram: si casi nadie llega a la demo, cambiar la pieza o el texto para el fin de semana."
      ]
     },
     {
@@ -208,6 +215,7 @@
      "iso": "2026-11-07",
      "tag": "",
      "tasks": [
+      "La prueba con 5 clínicas: empieza.",
       "Importar CSV de pacientes y campaña simple para confirmaciones: la cita de cada paciente (fecha, hora, profesional) en su llamada, 48 h antes de la cita, franjas 10–14 h y 17–20 h, 2 reintentos y un último intento antes de las 12 h del día anterior; si salta el contestador, colgar sin mensaje."
      ]
     },
@@ -217,9 +225,10 @@
      "iso": "2026-11-08",
      "tag": "",
      "tasks": [
+      "La prueba con 5 clínicas: apuntar resultados.",
       "Lista de exclusión propia (también para las confirmaciones) y grabación con aviso al inicio de la llamada, sólo las 2 primeras semanas de cada piloto y borrada a los 30 días.",
       "Número por agente: un 91 por clínica, que desvía las devoluciones a su recepción.",
-      "Revisión semanal: 10 entrevistas hechas, pilotos ofrecidos."
+      "Revisión semanal: por camino, visitas a la demo, demos pedidas y clínicas interesadas, y cómo va la prueba con 5 clínicas. Decidir en qué caminos seguir en la semana 4 y la Puerta 1: mantenerla, moverla o cambiar el objetivo."
      ]
     }
    ]
@@ -235,8 +244,10 @@
      "iso": "2026-11-09",
      "tag": "",
      "tasks": [
+      "Cerrar la prueba con 5 clínicas.",
       "Llamar a las clínicas con oferta y resolver objeciones.",
-      "Darme de alta como autónomo para poder firmar y facturar los pilotos."
+      "Darme de alta como autónomo para poder firmar los pilotos.",
+      "Lista de 15–20 agencias de marketing que trabajan con clínicas (Madrid o España): web, contacto y qué clínicas llevan (pasa de la semana 3)."
      ]
     },
     {
@@ -245,7 +256,9 @@
      "iso": "2026-11-10",
      "tag": "",
      "tasks": [
-      "2 demos en directo."
+      "Enviar a cada una de las 5 clínicas de la prueba su resultado, con la oferta de piloto para llamar a sus leads.",
+      "2 demos en directo.",
+      "Escribir a las agencias de la lista (email, LinkedIn o teléfono): la demo del lead en menos de 1 min y probarlo con 1–2 clínicas suyas (pasa de la semana 3)."
      ]
     },
     {
@@ -263,7 +276,8 @@
      "iso": "2026-11-12",
      "tag": "",
      "tasks": [
-      "2 demos y enviar contratos."
+      "2 demos y enviar contratos.",
+      "Seguimiento de las agencias sin respuesta y llamada con las que contesten."
      ]
     },
     {
@@ -272,7 +286,7 @@
      "iso": "2026-11-13",
      "tag": "",
      "tasks": [
-      "Firmar y cobrar los pilotos."
+      "Firmar los pilotos: acuerdo de piloto (objetivo y 30 días) y contrato de encargado de tratamiento (DPA)."
      ]
     },
     {
@@ -282,7 +296,7 @@
      "tag": "",
      "tasks": [
       "Panel de resultados del piloto: llamadas, contactados, confirmadas, reprogramadas, canceladas y tiempo de respuesta. Email a recepción por cada paciente que quiere mover la cita o hablar con ella, y resumen a las 14 h y a las 20 h.",
-      "Que al pagar el piloto se abra la cuenta de la clínica."
+      "Que al firmar el piloto se abra la cuenta de la clínica."
      ]
     },
     {
@@ -335,7 +349,7 @@
      "iso": "2026-11-19",
      "tag": "PUERTA 1",
      "tasks": [
-      "¿5 pilotos firmados? Sí: fase 2. 3–4: una semana más de cierre. Menos de 3: cambiar mensaje o precio, o probar formación privada."
+      "¿5 pilotos firmados y en marcha? Sí: fase 2. 3–4: una semana más de cierre. Menos de 3: cambiar mensaje u oferta, o probar formación privada."
      ]
     }
    ]
@@ -516,7 +530,7 @@
   },
   {
    "label": "Semana 8",
-   "title": "caso de éxito y paso a cuota",
+   "title": "caso de éxito y clientes",
    "phase": "Fase 2 · Pilotos",
    "days": [
     {
@@ -543,7 +557,7 @@
      "iso": "2026-12-09",
      "tag": "",
      "tasks": [
-      "Llamada de mitad de piloto con cada clínica: qué valor ven. Proponer el paso a la cuota mensual al acabar."
+      "Llamada de mitad de piloto con cada clínica: qué valor ven. Proponer seguir al acabar."
      ]
     },
     {
@@ -595,7 +609,7 @@
      "iso": "2026-12-14",
      "tag": "",
      "tasks": [
-      "Reuniones de cierre con los pilotos que terminan: resultados frente al objetivo y propuesta de cuota."
+      "Reuniones de cierre con los pilotos que terminan: resultados frente al objetivo y propuesta para seguir."
      ]
     },
     {
@@ -613,7 +627,7 @@
      "iso": "2026-12-16",
      "tag": "",
      "tasks": [
-      "Cierres y cobro de las suscripciones."
+      "Cierres con las clínicas que siguen."
      ]
     },
     {
@@ -631,7 +645,7 @@
      "iso": "2026-12-18",
      "tag": "PUERTA 2",
      "tasks": [
-      "¿3 o más pilotos pasan a cuota? Si no, entender por qué (resultados, precio, producto) y corregirlo antes de escalar."
+      "¿3 o más pilotos se quedan como clientes? Si no, entender por qué (resultados, producto) y corregirlo antes de escalar."
      ]
     }
    ]
@@ -857,7 +871,7 @@
      "iso": "2027-01-09",
      "tag": "",
      "tasks": [
-      "Medición automática de minutos y aviso de consumo, para no facturar el exceso a mano."
+      "Medición automática de minutos y aviso de consumo."
      ]
     },
     {
@@ -961,7 +975,7 @@
      "iso": "2027-01-19",
      "tag": "",
      "tasks": [
-      "Calcular las métricas: clientes, conversión de piloto a cuota y bajas."
+      "Calcular las métricas: clientes, conversión de piloto a cliente y bajas."
      ]
     },
     {

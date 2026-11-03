@@ -4,7 +4,7 @@ A static page that follows the 92-day plan in public: progress, calendar, diary 
 
 - `site/index.html`: the page. It has no build step and no dependencies.
 - `site/progress.json`: what you update by hand. It holds the counters, the diary notes, what's done and the links (fill in `links.instagram`).
-- `site/plan.json`: the plan by day. It is generated from `../wyncall-agent/docs/PLAN_90_DIAS.md`, so don't edit it by hand. `build.js` rewrites internal tasks in plain words and removes money (prices, income, margins).
+- `site/plan.json`: the plan by day. It is generated from `../wyncall-agent/docs/PLAN_90_DIAS.md`, so don't edit it by hand. `build.js` rewrites internal tasks in plain words and removes money (prices, «de pago», «gratis», «cuota»), ads and their cost, clinic names, jargon such as utm, and the lead audit (a neutral «prueba con 5 clínicas» until Tue 10 Nov). If a plan line still has any of that, the build stops and lists it: add a rule to `PUBLIC` in `build.js`.
 
 ## Update the page
 
