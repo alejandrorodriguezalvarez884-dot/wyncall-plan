@@ -46,7 +46,7 @@ const PUBLIC = [
   [/^Redactar la oferta de piloto gratis: 30 días sin coste ni compromiso, con/, "Redactar la oferta de piloto: 30 días con"],
   [/ Sin precios: al final se repasan .*$/, " Al final se repasan los resultados con la clínica."],
   [/^Firmar los pilotos gratis: (.*) Sin cobro\.$/, (_, rest) => "Firmar los pilotos: " + rest],
-  [/ Ojo: la Puerta 1 cuenta «pilotos de pago».*$/, ""],
+  [/^¿5 pilotos gratis firmados y en marcha\?/, "¿5 pilotos firmados y en marcha?"],
   [/Proponer el paso a Growth \(449 €\) al acabar\./, "Proponer el paso a la cuota mensual al acabar."],
   [/ y precio para clínicas en la web \(Growth con el piloto descontado\)/, " para clínicas en la web"],
   [/clientes, ingresos al mes, conversión de piloto a cuota, bajas y margen/, "clientes, conversión de piloto a cuota y bajas"],
