@@ -7,8 +7,8 @@
   "metrics": [
     { "label": "Clínicas contactadas", "value": 52 },
     { "label": "Entrevistas", "value": 0 },
-    { "label": "Pilotos de pago", "value": 0, "goal": 5 },
-    { "label": "Clientes de pago", "value": 0, "goal": 15 }
+    { "label": "Pilotos", "value": 0, "goal": 5 },
+    { "label": "Clínicas clientes", "value": 0, "goal": 15 }
   ],
   "done": [
     {
