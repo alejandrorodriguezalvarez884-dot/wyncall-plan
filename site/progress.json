@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
@@ -110,6 +110,15 @@
         "Instagram: el reel «Pon a prueba a Sofía #01».",
         "Vídeo del día 14: cambio de rumbo, probamos canales."
       ]
+    },
+    {
+      "date": "2026-11-04",
+      "items": [
+        "Recordatorio a las 20 clínicas del lunes.",
+        "El contrato de datos y las condiciones de la prueba, con el modelo de la AEPD.",
+        "El formulario para pedir la prueba, en la web.",
+        "Vídeo del día 15: un día de aprender."
+      ]
     }
   ],
   "notes": [
@@ -167,6 +176,11 @@
       "date": "2026-11-03",
       "title": "Día 14: cambio de rumbo, probamos canales",
       "text": "Con 52 clínicas contactadas y ninguna respuesta de una persona, esta semana, además de escribirles, probamos a darnos a conocer por otros caminos: primero Instagram, y después los buscadores y los grupos donde están los dueños de clínicas. Todos llevan a la demo de wyncall.com/es/clinicas, que desde hoy apunta por qué camino llegó cada visita. Hoy salió el primer «Pon a prueba a Sofía», y una clínica ha empezado a seguirnos. Preparamos la primera propuesta para clínicas, con lo que Sofía ya hace hoy: llamar a quien pide información en menos de un minuto."
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Día 15: un día de aprender",
+      "text": "Hoy fue un día de aprender. Mandé el recordatorio a las 20 clínicas del lunes, el segundo mensaje y el último. Aprendí cómo funcionan los anuncios de Meta y monté el primero. Y preparé, con el modelo de la Agencia Española de Protección de Datos, el contrato que firma una clínica para probar Wyncall: qué datos de sus pacientes tocamos, para qué y quién más los ve. Al hacerlo encontré cosas que arreglar antes de llamar al primer paciente. Desde hoy, cualquier clínica puede pedir su prueba de 30 días, sin compromiso, en wyncall.com/es/clinicas."
     }
   ]
 }
