@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "links": {
     "web": "https://wyncall.com/es",
     "instagram": "https://www.instagram.com/wyncall.ai/"
   },
   "metrics": [
-    { "label": "Clínicas contactadas", "value": 52 },
+    { "label": "Clínicas contactadas", "value": 64 },
     { "label": "Entrevistas", "value": 0 },
     { "label": "Pilotos", "value": 0, "goal": 5 },
     { "label": "Clínicas clientes", "value": 0, "goal": 15 }
@@ -119,6 +119,15 @@
         "El formulario para pedir la prueba, en la web.",
         "Vídeo del día 15: un día de aprender."
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "items": [
+        "Los primeros números del anuncio de Instagram.",
+        "Una prueba con 5 clínicas, preparada.",
+        "Cinco grupos de dueños de clínicas.",
+        "Vídeo del día 16: los primeros números del anuncio."
+      ]
     }
   ],
   "notes": [
@@ -181,6 +190,11 @@
       "date": "2026-11-04",
       "title": "Día 15: un día de aprender",
       "text": "Hoy fue un día de aprender. Mandé el recordatorio a las 20 clínicas del lunes, el segundo mensaje y el último. Aprendí cómo funcionan los anuncios de Meta y monté el primero. Y preparé, con el modelo de la Agencia Española de Protección de Datos, el contrato que firma una clínica para probar Wyncall: qué datos de sus pacientes tocamos, para qué y quién más los ve. Al hacerlo encontré cosas que arreglar antes de llamar al primer paciente. Desde hoy, cualquier clínica puede pedir su prueba de 30 días, sin compromiso, en wyncall.com/es/clinicas."
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Día 16: los primeros números del anuncio",
+      "text": "Hoy miré por dentro el primer anuncio: unas 1.200 personas lo vieron el primer día y casi 2 de cada 100 lo tocaron, más en el feed y las historias que en los reels; ahora sale solo en Madrid. Ayer llegó el primer interesado en probar Wyncall. Entré en cinco grupos de dueños de clínicas para aportar, sin vender, y los buscadores llegarán muy pronto."
     }
   ]
 }
